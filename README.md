@@ -1,4 +1,4 @@
-# Sampling-Assignment
+# Comparison of Models
 |  | Logistic Regression | Gradient Boosting Classifier | Ada Boost Classifier | Decision Tree Classifier | K Neighbors Classifier |
 |----------|----------|----------|----------|----------|----------|
 | Random Sampling | 93.83 | 99.43 | 99.25 | 99.25 | 94.20 |
